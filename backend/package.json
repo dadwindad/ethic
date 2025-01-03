@@ -16,9 +16,9 @@
     "zod": "^3.22.0"
   },
   "devDependencies": {
+    "@types/node": "^20.0.0",
     "bun-types": "latest",
     "drizzle-kit": "^0.20.0",
-    "@types/node": "^20.0.0",
     "typescript": "^5.0.0"
   }
 }
