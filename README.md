@@ -71,6 +71,7 @@ myproject/
 └── docker-compose.yml
 ```
 
+```
 myproject/
 ├── README.md
 ├── docker-compose.yml
@@ -99,3 +100,4 @@ myproject/
         │   └── index.ts
         └── middleware/
             └── validate.ts
+```
